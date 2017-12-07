@@ -1,7 +1,7 @@
 {
-  "name": "rest-api-playlist-master",
+  "name": "location-api",
   "version": "1.0.0",
-  "description": "Course files for the REST API tutorial series on The Net Ninja Youtube channel",
+  "description": "an api to find location",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.18.2",
